@@ -31,3 +31,37 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Default ignored files
+/shelf/
+/workspace.xml
+target/
+build/
+*.jar
+*.war
+*.class
+
+# IDE specific files
+.idea/
+.vscode/
+.eclipse/
+.classpath
+.project
+
+# Log files
+logs/
+*.log
+*.tmp
+
+# Environment specific files (handle sensitive data carefully)
+.env
+application.properties
+application.yml
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Dependency caches
+.gradle/
+.m2/
